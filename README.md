@@ -38,8 +38,8 @@ e convido a você a dar explorar meus repositórios e quem sabe trocar uma ideia
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodantasdev&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodevmaster&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodantasdev)](https://github.com/thiagodantasdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodevmaster)](https://github.com/thiagodevmaster/github-readme-stats)
 
 </div>
