@@ -10,7 +10,7 @@ e convido a você a dar explorar meus repositórios e quem sabe trocar uma ideia
 <br>
 <hr>
 <br>
-<div style="text-align:center;">
+<div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-dantas-dev/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/thiagodevmaster)
@@ -20,7 +20,7 @@ e convido a você a dar explorar meus repositórios e quem sabe trocar uma ideia
 <br>
 <hr>
 
-<div style="text-align: center;"><br><h1>Technology stack 👨🏻‍💻</h1>
+<div align="center"><br><h1>Technology stack 👨🏻‍💻</h1>
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
