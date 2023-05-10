@@ -1,7 +1,7 @@
 <img src="./img/bg.jpg">
 <hr>
 <br>
-<h3 style="text-align:center;">Sou do Rio de janeiro, tenho 25 anos   
+<h3 align="center">Sou do Rio de janeiro, tenho 25 anos   
 
   <div align="center">
  
