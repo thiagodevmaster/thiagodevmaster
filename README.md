@@ -3,10 +3,15 @@
 <br>
 <h3 style="text-align:center;">Sou do Rio de janeiro, tenho 25 anos   
 
+  <div align="center">
+ 
 e estou em busca da primeira vaga como Dev Júnior.
 
 Apaixonado por Desenvolvimento Web, comecei na expectativa de desenvolver meu novo Uber da vida kkk, ou mesmo um aplicativo legal, acabei entrando nesse mundo e descobri tanta coisa, hoje eu já sei o meu caminho e tenho objetivos definidos,
 e convido a você a dar explorar meus repositórios e quem sabe trocar uma ideia comigo para nos conhecermos e formamos uma parceria.</h3>
+
+</div>
+  
 <br>
 <hr>
 <br>
