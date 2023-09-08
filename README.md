@@ -1,14 +1,28 @@
 <img src="./img/bg.jpg">
 <hr>
 <br>
-<h3 align="center">Sou do Rio de janeiro, tenho 25 anos   
+<h3 align="center"><strong>Desenvolvedor Web Apaixonado em Busca de Oportunidades Desafiadoras.</strong>   
 
-  <div align="center">
+<div align="center">
  
-e estou em busca da primeira vaga como Dev Júnior.
+Olá, sou um entusiasta do desenvolvimento web baseado no Rio de Janeiro, com 25 anos de idade e uma paixão ardente por transformar ideias em realidade digital. Desde o início da minha jornada no mundo do desenvolvimento, meu objetivo tem sido claro: criar soluções inovadoras e impactantes que simplifiquem a vida das pessoas.</h3>
 
-Apaixonado por Desenvolvimento Web, comecei na expectativa de desenvolver meu novo Uber da vida kkk, ou mesmo um aplicativo legal, acabei entrando nesse mundo e descobri tanta coisa, hoje eu já sei o meu caminho e tenho objetivos definidos,
-e convido a você a dar explorar meus repositórios e quem sabe trocar uma ideia comigo para nos conhecermos e formamos uma parceria.</h3>
+<br>
+
+<h3><strong>Minha Experiência e Habilidades:</strong></h3>
+
+<ul>
+  <li>Tenho experiência sólida em desenvolvimento utilizando PHP, Laravel, CodeIgniter e outras tecnologias da web.</li>
+  <li>Sou versátil e posso trabalhar com várias stacks de tecnologia, incluindo JavaScript, além de frameworks como Vue.js e React.</li>
+  <li>Tenho conhecimento em infraestrutura e implantação, incluindo Docker, o que me permite criar ambientes de desenvolvimento eficientes e escaláveis</li>
+  <li>Ao longo da minha jornada, acumulei valiosa experiência e estou pronto para enfrentar desafios complexos de desenvolvimento web.</li>
+</ul>
+
+<br>
+
+<h3><strong>Vamos Trocar Ideias e Colaborar:</strong></h3>
+
+<h3>Convido você a explorar meus repositórios e conhecer melhor meu trabalho. Estou sempre aberto a conversas sobre projetos empolgantes e oportunidades futuras de colaboração. Se você busca um desenvolvedor dedicado, criativo e comprometido com a excelência, estou pronto para fazer parte do seu próximo projeto.</h3>
 
 </div>
 
