@@ -8,6 +8,7 @@
 Olá, sou um entusiasta do desenvolvimento web baseado no Rio de Janeiro, com 25 anos de idade e uma paixão ardente por transformar ideias em realidade digital. Desde o início da minha jornada no mundo do desenvolvimento, meu objetivo tem sido claro: criar soluções inovadoras e impactantes que simplifiquem a vida das pessoas.</h3>
 
 <br>
+<hr>
 
 <h3><strong>Minha Experiência e Habilidades:</strong></h3>
 
@@ -21,6 +22,7 @@ Olá, sou um entusiasta do desenvolvimento web baseado no Rio de Janeiro, com 25
 <br>
 
 <h3><strong>Vamos Trocar Ideias e Colaborar:</strong></h3>
+<hr>
 
 <h3>Convido você a explorar meus repositórios e conhecer melhor meu trabalho. Estou sempre aberto a conversas sobre projetos empolgantes e oportunidades futuras de colaboração. Se você busca um desenvolvedor dedicado, criativo e comprometido com a excelência, estou pronto para fazer parte do seu próximo projeto.</h3>
 
