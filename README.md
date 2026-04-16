@@ -1,22 +1,30 @@
 <img src="./img/bg.jpg">
 <hr>
 <br>
-<h3 align="center"><strong>Desenvolvedor Web Apaixonado em Busca de Oportunidades Desafiadoras.</strong>   
+<h3 align="center"><strong>Desenvolvedor Backend | PHP | Laravel | APIs REST</strong></h3>
 
 <div align="center">
- 
-Olá, sou um entusiasta do desenvolvimento web baseado no Rio de Janeiro, com 25 anos de idade e uma paixão ardente por transformar ideias em realidade digital. Desde o início da minha jornada no mundo do desenvolvimento, meu objetivo tem sido claro: criar soluções inovadoras e impactantes que simplifiquem a vida das pessoas.</h3>
+
+Desenvolvedor Backend focado em criar soluções escaláveis e bem estruturadas. Trabalho principalmente com PHP e Laravel, construindo APIs REST, lidando com concorrência e processamento assíncrono.
+
+Tenho experiência com MySQL, integrações de sistemas e uso de Docker no dia a dia. Gosto de pensar em arquitetura, desempenho e código limpo.
+
+Sempre aberto a novos desafios e boas conversas sobre tecnologia.
+
+</div>
 
 <br>
 <hr>
 
-<h3><strong>Minha Experiência e Habilidades:</strong></h3>
+<h3><strong>Principais Atuações</strong></h3>
 
 <ul>
-  <li>Tenho experiência sólida em desenvolvimento utilizando PHP, Laravel, CodeIgniter e outras tecnologias da web.</li>
-  <li>Sou versátil e posso trabalhar com várias stacks de tecnologia, incluindo JavaScript, além de frameworks como Vue.js e React.</li>
-  <li>Tenho conhecimento em infraestrutura e implantação, incluindo Docker, o que me permite criar ambientes de desenvolvimento eficientes e escaláveis</li>
-  <li>Ao longo da minha jornada, acumulei valiosa experiência e estou pronto para enfrentar desafios complexos de desenvolvimento web.</li>
+  <li>Desenvolvimento de APIs REST com PHP e Laravel</li>
+  <li>Implementação de processamento assíncrono com filas (jobs)</li>
+  <li>Controle de concorrência e integridade de dados</li>
+  <li>Integração com APIs de terceiros e sistemas externos</li>
+  <li>Modelagem e otimização de banco de dados (MySQL)</li>
+  <li>Containerização de aplicações com Docker</li>
 </ul>
 
 <br>
@@ -41,19 +49,19 @@ Olá, sou um entusiasta do desenvolvimento web baseado no Rio de Janeiro, com 25
 <br>
 <hr>
 
-<div align="center"><br><h1>Technology stack 👨🏻‍💻</h1>
+<div align="center"><br><h1>stack 👨🏻‍💻</h1>
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS3](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
-[![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]
+[![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge)]
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
-[![SqLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]
-[![Laravel](	https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]
-[![Symfony](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)]
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
 
 <br>
 <br>
